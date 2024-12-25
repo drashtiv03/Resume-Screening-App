@@ -26,6 +26,9 @@ The **Resume Screening App** is a powerful tool designed to streamline the recru
    ```bash
    git clone https://github.com/drashtiv03/resume-screening-app.git
    cd resume-screening-app
+2. Install the dependencies:
+   ```bash
+    pip install -r requirements.txt
    
 2.Install the required dependencies:
    pip install -r requirements.txt
