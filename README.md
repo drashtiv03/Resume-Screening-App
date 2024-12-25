@@ -28,9 +28,7 @@ The **Resume Screening App** is a powerful tool designed to streamline the recru
    cd resume-screening-app
    
 2.Install the required dependencies:
-   ```bash
    pip install -r requirements.txt
 
 3.For running the app:
-   ```bash
    streamlit run app.py
