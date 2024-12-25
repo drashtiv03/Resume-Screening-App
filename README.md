@@ -29,9 +29,6 @@ The **Resume Screening App** is a powerful tool designed to streamline the recru
 2. Install the dependencies:
    ```bash
     pip install -r requirements.txt
-   
-2.Install the required dependencies:
-   pip install -r requirements.txt
-
-3.For running the app:
-   streamlit run app.py
+3. Run the App:
+   ```bash
+    streamlit run app.py
